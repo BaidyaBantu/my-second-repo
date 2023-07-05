@@ -2,7 +2,7 @@ div{
     background-color: crimson;
     padding: 20px;
     border-radius: 5px;
-
+ margin-bottom: 10px;
 }
 #border{
     border: 10px;
